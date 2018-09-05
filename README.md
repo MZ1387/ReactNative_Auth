@@ -1,6 +1,6 @@
 # ReactNative_Auth
 
-An application to learn the fundamentals of React Native: Styling, Images, Flexbox, ScrollView, TouchableOpacity, onPress.
+A application that uses Firebase Authentication to learn the fundamentals of React Native: Styling, Images, Flexbox, ScrollView, TouchableOpacity, onPress.
 
 ## Technologies Used
 
